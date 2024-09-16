@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ArrayMultidimensiKt">
+  <component name="RunManager" selected="Kotlin.CollectionsKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LibraryArrayKt" />
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.ArrayMultidimensiKt" />
         <item itemvalue="Kotlin.Array2DimensiKt" />
         <item itemvalue="Kotlin.ArrayMethodKt" />
         <item itemvalue="Kotlin.ArrayTipePrimitiveKt" />
-        <item itemvalue="Kotlin.LibraryArrayKt" />
       </list>
     </recent_temporary>
   </component>
