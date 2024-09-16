@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add ArrayTipePrimitive.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add ArrayMethod.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2Dimensi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ArrayMethodKt">
+  <component name="RunManager" selected="Kotlin.Array2DimensiKt">
+    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -67,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Array2DimensiKt" />
         <item itemvalue="Kotlin.ArrayMethodKt" />
         <item itemvalue="Kotlin.ArrayTipePrimitiveKt" />
         <item itemvalue="Kotlin.LibraryArrayKt" />
@@ -104,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726504109194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ArrayMethod.kt">
+      <created>1726506895805</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726506895805</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +137,18 @@
     <MESSAGE value="Stater Project" />
     <MESSAGE value="add LibraryArray.kt" />
     <MESSAGE value="add ArrayTipePrimitive.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrayTipePrimitive.kt" />
+    <MESSAGE value="add ArrayMethod.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrayMethod.kt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

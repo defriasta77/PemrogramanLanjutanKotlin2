@@ -38,7 +38,7 @@ fun main(args: Array<String>) {
     println("simpsons size: " + simpsonsE.size)
     if(!simpsonsE.isEmpty())
         println("Array tidak kosong!")
-    println("Min = "+ simpsonsE.minOrNull())
+    println("Min = "+ simpsonsE.minOrNull()) //perbaikan min dan max dengan menambahkan "OrNull" agar tidak terjadi error
     println("Max = "+ simpsonsE.maxOrNull())
     println("First = " + simpsonsE.first())
     println("Last = " + simpsonsE.last())
