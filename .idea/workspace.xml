@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add PairNilaiKembali.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiEkspresiTunggal.kt" afterDir="false" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add EkspresiLambdas.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Array.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,30 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.EkspresiLambdasKt">
+  <component name="RunManager" selected="Kotlin.Array2Kt">
     <configuration name="ArgumenDefaultKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgumenDefaultKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2Kt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,34 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FNilaiKembaliKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FungsiEkspresiTunggalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiEkspresiTunggalKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PairNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PairNilaiKembaliKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Array2Kt" />
+        <item itemvalue="Kotlin.Array2DimensiKt" />
+        <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.EkspresiLambdasKt" />
         <item itemvalue="Kotlin.ArgumenDefaultKt" />
-        <item itemvalue="Kotlin.FungsiEkspresiTunggalKt" />
-        <item itemvalue="Kotlin.PairNilaiKembaliKt" />
-        <item itemvalue="Kotlin.FNilaiKembaliKt" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +303,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726581415671</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add FungsiEkspresiTunggal.kt">
+      <created>1726581574979</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726581574979</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add ArgumenDefault.kt">
+      <created>1726581734869</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726581734869</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add EkspresiLambdas.kt">
+      <created>1726581819392</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726581819392</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,9 +339,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrayMultidimensi.kt" />
-    <MESSAGE value="add Collections.kt" />
-    <MESSAGE value="add mutableListOf.kt" />
     <MESSAGE value="add arrayListOf.kt" />
     <MESSAGE value="add Map.kt" />
     <MESSAGE value="add Ranges.kt" />
@@ -342,7 +361,10 @@
     <MESSAGE value="add FTanpaNilaiKembali.kt" />
     <MESSAGE value="add FNilaiKembali.kt" />
     <MESSAGE value="add PairNilaiKembali.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add PairNilaiKembali.kt" />
+    <MESSAGE value="add FungsiEkspresiTunggal.kt" />
+    <MESSAGE value="add ArgumenDefault.kt" />
+    <MESSAGE value="add EkspresiLambdas.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add EkspresiLambdas.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
