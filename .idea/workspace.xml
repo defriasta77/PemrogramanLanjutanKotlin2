@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add PemeriksaanNilaiNull.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PemeriksaanKondisiNull.kt" afterDir="false" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add PemeriksaanKondisiNull.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ElvisOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Math.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MenghitungLuasKelilingLingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenangananEksepsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafeCalls.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,31 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.PemeriksaanKondisiNullKt">
-    <configuration name="BreakNContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakNContinueLabelKt" />
+}</component>
+  <component name="RunManager" selected="Kotlin.MenghitungLuasKelilingLingkaranKt">
+    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullSafetyKt" />
+    <configuration name="MathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorKt" />
+    <configuration name="MenghitungLuasKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenghitungLuasKelilingLingkaranKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PemeriksaanNilaiNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PemeriksaanNilaiNullKt" />
+    <configuration name="PenangananEksepsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenangananEksepsiKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MenghitungLuasKelilingLingkaranKt" />
+        <item itemvalue="Kotlin.MathKt" />
+        <item itemvalue="Kotlin.PenangananEksepsiKt" />
+        <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
-        <item itemvalue="Kotlin.PemeriksaanNilaiNullKt" />
-        <item itemvalue="Kotlin.OperatorKt" />
-        <item itemvalue="Kotlin.NullSafetyKt" />
-        <item itemvalue="Kotlin.BreakNContinueLabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726553176536</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add PemeriksaanKondisiNull.kt">
+      <created>1726553458829</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726553458829</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +293,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Stater Project" />
     <MESSAGE value="add LibraryArray.kt" />
     <MESSAGE value="add ArrayTipePrimitive.kt" />
     <MESSAGE value="add ArrayMethod.kt" />
@@ -306,7 +317,8 @@
     <MESSAGE value="add NullSafety.kt" />
     <MESSAGE value="add Operator.kt" />
     <MESSAGE value="add PemeriksaanNilaiNull.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add PemeriksaanNilaiNull.kt" />
+    <MESSAGE value="add PemeriksaanKondisiNull.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PemeriksaanKondisiNull.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
