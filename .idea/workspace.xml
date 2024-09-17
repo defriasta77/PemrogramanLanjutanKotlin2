@@ -36,7 +36,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BreakNContinueKt">
+  <component name="RunManager" selected="Kotlin.ReturnForLoopKt">
     <configuration name="BreakNContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakNContinueKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopPerkalianKt" />
+    <configuration name="ReturnForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnForLoopKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReturnForLoopKt" />
         <item itemvalue="Kotlin.BreakNContinueKt" />
         <item itemvalue="Kotlin.WhileLoopKalkulatorKt" />
         <item itemvalue="Kotlin.WhileDoWhileKt" />
         <item itemvalue="Kotlin.ForLoopKalkulatorEksponensialKt" />
-        <item itemvalue="Kotlin.ForLoopPerkalianKt" />
       </list>
     </recent_temporary>
   </component>
