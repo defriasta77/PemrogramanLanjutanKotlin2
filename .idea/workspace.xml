@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add WhileLoopKalkulator.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakNContinue.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add BreakNContinueLabel.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BreakNContinueLabelKt">
+  <component name="RunManager" selected="Kotlin.NullSafetyKt">
     <configuration name="BreakNContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakNContinueKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -51,15 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnForLoopKt" />
+    <configuration name="NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullSafetyKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileDoWhileKt" />
+    <configuration name="ReturnForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnForLoopKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NullSafetyKt" />
         <item itemvalue="Kotlin.BreakNContinueLabelKt" />
         <item itemvalue="Kotlin.ReturnForLoopKt" />
         <item itemvalue="Kotlin.BreakNContinueKt" />
         <item itemvalue="Kotlin.WhileLoopKalkulatorKt" />
-        <item itemvalue="Kotlin.WhileDoWhileKt" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +222,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726549079423</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add BreakNContinue.kt">
+      <created>1726549309158</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726549309158</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add ReturnForLoop.kt">
+      <created>1726549435253</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726549435253</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add BreakNContinueLabel.kt">
+      <created>1726549543698</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726549543698</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,7 +277,10 @@
     <MESSAGE value="add ForLoop.kt" />
     <MESSAGE value="add ForLoopKalkulatorEksponensial.kt" />
     <MESSAGE value="add WhileLoopKalkulator.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WhileLoopKalkulator.kt" />
+    <MESSAGE value="add BreakNContinue.kt" />
+    <MESSAGE value="add ReturnForLoop.kt" />
+    <MESSAGE value="add BreakNContinueLabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add BreakNContinueLabel.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
