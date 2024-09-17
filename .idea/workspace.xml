@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FNilaiKembaliKt">
+  <component name="RunManager" selected="Kotlin.PairNilaiKembaliKt">
     <configuration name="FNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FNilaiKembaliKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -46,13 +46,6 @@
     </configuration>
     <configuration name="FTanpaNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FTanpaNilaiKembaliKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PairNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairNilaiKembaliKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PairNilaiKembaliKt" />
         <item itemvalue="Kotlin.FNilaiKembaliKt" />
         <item itemvalue="Kotlin.FTanpaNilaiKembaliKt" />
         <item itemvalue="Kotlin.MenghitungAkarKuadratKt" />
         <item itemvalue="Kotlin.MenghitungLuasKelilingLingkaranKt" />
-        <item itemvalue="Kotlin.MathKt" />
       </list>
     </recent_temporary>
   </component>
