@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add NullSafety.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add Operator.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PemeriksaanNilaiNull.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +36,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.OperatorKt">
-    <configuration name="BreakNContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakNContinueKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PemeriksaanNilaiNullKt">
     <configuration name="BreakNContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakNContinueLabelKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -66,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PemeriksaanNilaiNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PemeriksaanNilaiNullKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReturnForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReturnForLoopKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -75,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PemeriksaanNilaiNullKt" />
         <item itemvalue="Kotlin.OperatorKt" />
         <item itemvalue="Kotlin.NullSafetyKt" />
         <item itemvalue="Kotlin.BreakNContinueLabelKt" />
         <item itemvalue="Kotlin.ReturnForLoopKt" />
-        <item itemvalue="Kotlin.BreakNContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726549667418</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add Operator.kt">
+      <created>1726552919841</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726552919841</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +297,8 @@
     <MESSAGE value="add ReturnForLoop.kt" />
     <MESSAGE value="add BreakNContinueLabel.kt" />
     <MESSAGE value="add NullSafety.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add NullSafety.kt" />
+    <MESSAGE value="add Operator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Operator.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
