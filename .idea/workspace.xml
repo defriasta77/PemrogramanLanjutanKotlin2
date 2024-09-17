@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add Percabangan.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan2.kt" afterDir="false" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add Percabangan2.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,14 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Percabangan2Kt">
+  <component name="RunManager" selected="Kotlin.KalkulatorPercabanganKt">
+    <configuration name="KalkulatorPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MapKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -65,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorPercabanganKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.PercabanganKt" />
         <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.MapKt" />
-        <item itemvalue="Kotlin.SetKt" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726547085877</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add Percabangan2.kt">
+      <created>1726547371998</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726547371998</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +209,8 @@
     <MESSAGE value="add Map.kt" />
     <MESSAGE value="add Ranges.kt" />
     <MESSAGE value="add Percabangan.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Percabangan.kt" />
+    <MESSAGE value="add Percabangan2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Percabangan2.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
