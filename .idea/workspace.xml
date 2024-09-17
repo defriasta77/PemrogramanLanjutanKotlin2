@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add ForLoopKalkulatorEksponensial.kt" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add WhileLoopKalkulator.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakNContinue.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,16 +36,16 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhileLoopKalkulatorKt">
-    <configuration name="ForLoopKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopKalkulatorEksponensialKt" />
+  <component name="RunManager" selected="Kotlin.BreakNContinueKt">
+    <configuration name="BreakNContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakNContinueKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
+    <configuration name="ForLoopKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKalkulatorEksponensialKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakNContinueKt" />
         <item itemvalue="Kotlin.WhileLoopKalkulatorKt" />
         <item itemvalue="Kotlin.WhileDoWhileKt" />
         <item itemvalue="Kotlin.ForLoopKalkulatorEksponensialKt" />
         <item itemvalue="Kotlin.ForLoopPerkalianKt" />
-        <item itemvalue="Kotlin.ForLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726548849628</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add WhileLoopKalkulator.kt">
+      <created>1726549079423</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726549079423</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +257,8 @@
     <MESSAGE value="add KalkulatorPercabanganWhen.kt" />
     <MESSAGE value="add ForLoop.kt" />
     <MESSAGE value="add ForLoopKalkulatorEksponensial.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ForLoopKalkulatorEksponensial.kt" />
+    <MESSAGE value="add WhileLoopKalkulator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add WhileLoopKalkulator.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
