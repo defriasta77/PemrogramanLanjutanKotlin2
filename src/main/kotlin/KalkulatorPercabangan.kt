@@ -10,11 +10,8 @@ fun main(args: Array<String>) {
     println("2 - subtraction")
     println("3 - multiplication")
     println("4 - division")
-
     val choice = readLine()!!.toInt()
     var result = 0.0
-
-
     if (choice == 1) {
         result = a + b
     } else if (choice == 2) {

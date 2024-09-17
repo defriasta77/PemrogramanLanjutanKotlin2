@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add EkspresiLambdas.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2.kt" afterDir="false" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add Array2.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BreakNContinueLabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/BreakNContinueLabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KalkulatorPercabangan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorPercabangan.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KalkulatorPercabanganWhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorPercabanganWhen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Math.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Math.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MenghitungAkarKuadrat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MenghitungAkarKuadrat.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,30 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Array2Kt">
+  <component name="RunManager" selected="Kotlin.EkspresiLambdasKt">
     <configuration name="ArgumenDefaultKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgumenDefaultKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2Kt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,13 +58,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FNilaiKembaliKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FungsiEkspresiTunggalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiEkspresiTunggalKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairNilaiKembaliKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Array2Kt" />
-        <item itemvalue="Kotlin.Array2DimensiKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.EkspresiLambdasKt" />
         <item itemvalue="Kotlin.ArgumenDefaultKt" />
+        <item itemvalue="Kotlin.FungsiEkspresiTunggalKt" />
+        <item itemvalue="Kotlin.PairNilaiKembaliKt" />
+        <item itemvalue="Kotlin.FNilaiKembaliKt" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726581819392</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add Array2.kt">
+      <created>1726582395655</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726582395655</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +351,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add arrayListOf.kt" />
     <MESSAGE value="add Map.kt" />
     <MESSAGE value="add Ranges.kt" />
     <MESSAGE value="add Percabangan.kt" />
@@ -364,7 +375,8 @@
     <MESSAGE value="add FungsiEkspresiTunggal.kt" />
     <MESSAGE value="add ArgumenDefault.kt" />
     <MESSAGE value="add EkspresiLambdas.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add EkspresiLambdas.kt" />
+    <MESSAGE value="add Array2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Array2.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
