@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add FTanpaNilaiKembali.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FNilaiKembali.kt" afterDir="false" />
+    <list default="true" id="b09d9c93-2b66-4e9e-a7ca-f3b168c35f6c" name="Changes" comment="add PairNilaiKembali.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiEkspresiTunggal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PairNilaiKembaliKt">
+  <component name="RunManager" selected="Kotlin.FungsiEkspresiTunggalKt">
     <configuration name="FNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FNilaiKembaliKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -51,15 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenghitungAkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MenghitungAkarKuadratKt" />
+    <configuration name="FungsiEkspresiTunggalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiEkspresiTunggalKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenghitungLuasKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MenghitungLuasKelilingLingkaranKt" />
+    <configuration name="MenghitungAkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenghitungAkarKuadratKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsiEkspresiTunggalKt" />
         <item itemvalue="Kotlin.PairNilaiKembaliKt" />
         <item itemvalue="Kotlin.FNilaiKembaliKt" />
         <item itemvalue="Kotlin.FTanpaNilaiKembaliKt" />
         <item itemvalue="Kotlin.MenghitungAkarKuadratKt" />
-        <item itemvalue="Kotlin.MenghitungLuasKelilingLingkaranKt" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726581091286</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add FNilaiKembali.kt">
+      <created>1726581279955</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726581279955</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add PairNilaiKembali.kt">
+      <created>1726581415671</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726581415671</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,8 +317,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrayMethod.kt" />
-    <MESSAGE value="add Array2Dimensi.kt" />
     <MESSAGE value="add ArrayMultidimensi.kt" />
     <MESSAGE value="add Collections.kt" />
     <MESSAGE value="add mutableListOf.kt" />
@@ -327,7 +340,9 @@
     <MESSAGE value="add PemeriksaanKondisiNull.kt" />
     <MESSAGE value="add MenghitungLuasKelilingLingkaran.kt" />
     <MESSAGE value="add FTanpaNilaiKembali.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add FTanpaNilaiKembali.kt" />
+    <MESSAGE value="add FNilaiKembali.kt" />
+    <MESSAGE value="add PairNilaiKembali.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PairNilaiKembali.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
