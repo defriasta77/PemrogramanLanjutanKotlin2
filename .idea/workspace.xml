@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ArgumenDefaultKt">
+  <component name="RunManager" selected="Kotlin.EkspresiLambdasKt">
     <configuration name="ArgumenDefaultKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgumenDefaultKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -45,15 +45,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FNilaiKembaliKt" />
+    <configuration name="EkspresiLambdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EkspresiLambdasKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FTanpaNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FTanpaNilaiKembaliKt" />
+    <configuration name="FNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FNilaiKembaliKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EkspresiLambdasKt" />
         <item itemvalue="Kotlin.ArgumenDefaultKt" />
         <item itemvalue="Kotlin.FungsiEkspresiTunggalKt" />
         <item itemvalue="Kotlin.PairNilaiKembaliKt" />
         <item itemvalue="Kotlin.FNilaiKembaliKt" />
-        <item itemvalue="Kotlin.FTanpaNilaiKembaliKt" />
       </list>
     </recent_temporary>
   </component>
