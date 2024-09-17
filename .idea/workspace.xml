@@ -36,7 +36,14 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ForLoopKt">
+  <component name="RunManager" selected="Kotlin.ForLoopKalkulatorEksponensialKt">
+    <configuration name="ForLoopKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKalkulatorEksponensialKt" />
+      <module name="PemrogramanLanjutanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
       <module name="PemrogramanLanjutanKotlin2" />
@@ -44,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KalkulatorPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganKt" />
+    <configuration name="ForLoopPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopPerkalianKt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,13 +60,6 @@
     </configuration>
     <configuration name="KalkulatorPercabanganWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorPercabanganWhenKt" />
-      <module name="PemrogramanLanjutanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Percabangan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan2Kt" />
       <module name="PemrogramanLanjutanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForLoopKalkulatorEksponensialKt" />
+        <item itemvalue="Kotlin.ForLoopPerkalianKt" />
         <item itemvalue="Kotlin.ForLoopKt" />
         <item itemvalue="Kotlin.KalkulatorPercabanganWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.KalkulatorPercabanganKt" />
-        <item itemvalue="Kotlin.Percabangan2Kt" />
       </list>
     </recent_temporary>
   </component>
